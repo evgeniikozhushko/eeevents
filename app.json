@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "events",
-    "slug": "events",
+    "name": "eeevents",
+    "slug": "eeevents",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "events",
+    "scheme": "restate",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
